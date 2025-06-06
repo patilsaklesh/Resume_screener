@@ -60,6 +60,9 @@ Each model was evaluated using:
 
 You can compare these metrics to decide the best performing model for deployment.
 
+## 💡 Future Improvements
+- Add deep learning models (e.g., BERT, LSTM) for better text understanding
+- Deploy on AWS as an API for real-time screening
 
 Below is a preview of the Streamlit application:
 
